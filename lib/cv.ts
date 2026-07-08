@@ -18,7 +18,7 @@ export const experience: Experience[] = [
   {
     role: "Software Engineer",
     company: "Slalom",
-    period: "Dic 2024 — Present",
+    period: "Dec 2024 — Present",
     highlights: [
       "MWCIA (Insurance) — cloud migration and modernization of legacy applications to Azure. Stack: .NET Framework, ASP, Azure, MSSQL.",
       "Inspira (Healthcare / Benefits Management) — development of a health benefits management application covering savings plans and spending benefits. Stack: React, Node.js, PostgreSQL.",
